@@ -5,4 +5,4 @@ pbr==1.8.1
 pyrad==2.0
 robotframework==3.0
 six==1.10.0
-wheel==0.24.0
+wheel==0.38.1
